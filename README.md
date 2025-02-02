@@ -19,8 +19,8 @@ This project is a simple blockchain simulation that demonstrates core blockchain
 
 1. Clone this repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/prathamesh493/Blockchain_Simulation.git
+   cd Blockchain_Simulation
 
 ### Run the blockchain simulation:
     python blockchainsim.py
