@@ -1,7 +1,6 @@
-##Simple Blockchain Simulation
+#Simple Blockchain Simulation#
 
-
-#Overview
+#Overview#
 
 This project is a simple blockchain simulation that demonstrates core blockchain concepts such as:
 Block structure with transactions
@@ -11,20 +10,20 @@ Blockchain integrity validation
 Ability to simulate tampering and detection
 
 
-#Installation and Usage
+#Installation and Usage#
 Prerequisites:
 Python
 
-#Setup and Execution:
+#Setup and Execution:#
 Clone this repository:
 git clone <repository_url>
 cd <repository_directory>
 
-#Run the blockchain simulation:
+#Run the blockchain simulation:#
 python blockchain.py
 
 
-#Interactive Menu
+#Interactive Menu#
 
 Once the script runs, you can choose from the following options:
 1: Add a new block (Enter transactions manually)
@@ -33,5 +32,5 @@ Once the script runs, you can choose from the following options:
 4: Tamper with a block (Modify block data and observe detection)
 5: Exit the simulation
 
-#Author
+#Author#
 Prathamesh Ramdas Naik
